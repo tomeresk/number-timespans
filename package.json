@@ -1,0 +1,15 @@
+{
+  "name": "number-timespans",
+  "version": "1.0.0",
+  "description": "Extends the number prototype with timespan and date functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "timespan",
+    "number"
+  ],
+  "author": "tomeresk",
+  "license": "MIT"
+}
